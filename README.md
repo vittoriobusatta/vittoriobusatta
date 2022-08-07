@@ -1,15 +1,16 @@
 ### Hi there 👋
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=vittoriobusatta&show_icons=true&include_all_commits=true&theme=solarized-light&hide_border=true" alt="Anurag's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriobusatta&layout=compact&theme=solarized-light&hide_border=true" /> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vittoriobusatta&show_icons=true&include_all_commits=true&theme=darkt&hide_border=true" alt="Anurag's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriobusatta&layout=compact&theme=darkt&hide_border=true" /> 
+
 
 #### Top Repositories
 
 <a href="https://github.com/vittoriobusatta/Portfolio-V1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vittoriobusatta&repo=Portfolio-V1&theme=solarized-light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vittoriobusatta&repo=Portfolio-V1&theme=darkt" />
 </a>
 <a href="https://github.com/vittoriobusatta/Galleria-Challenge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vittoriobusatta&repo=Galleria-Challenge&theme=solarized-light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vittoriobusatta&repo=Galleria-Challenge&theme=darkt" />
 </a>
 
 
