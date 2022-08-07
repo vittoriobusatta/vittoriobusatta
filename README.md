@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| <a href="https://github.com/vittoriobusatta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vittoriobusatta&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/vittoriobusatta/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriobusatta&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=vittoriobusatta&show_icons=true&include_all_commits=true&theme=solarized-light&hide_border=true" alt="Anurag's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriobusatta&layout=compact&theme=solarized-light&hide_border=true" /> |
 | ------------- | ------------- |
 
 #### Top Repositories
