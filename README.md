@@ -5,9 +5,9 @@
 </div>| 
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriobusatta&layout=compact&theme=dark&hide_border=true" />
-</div>| 
+</div>| | ------------- | ------------- |
 
-#### Top Repositories
+#### Last Projects
 
 <a href="https://github.com/vittoriobusatta/Portfolio-V1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vittoriobusatta&repo=Portfolio-V1&theme=dark" />
