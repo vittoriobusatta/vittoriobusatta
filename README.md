@@ -1,9 +1,16 @@
 ### Hi there 👋
 
-![Vittorio GitHub stats](https://github-readme-stats.vercel.app/api?username=vittoriobusatta)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriobusatta&theme=solarized-light)
+#### Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vittoriobusatta&repo=github-readme-stats)
+
+<a href="https://github.com/vittoriobusatta/Portfolio-V1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vittoriobusatta&repo=Portfolio-V1&theme=solarized-light" />
+</a>
+<a href="https://github.com/vittoriobusatta/Galleria-Challenge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vittoriobusatta&repo=Galleria-Challenge&theme=solarized-light" />
+</a>
+
+
 
 <!--
 **vittoriobusatta/vittoriobusatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
