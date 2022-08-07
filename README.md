@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Vittorio GitHub stats](https://github-readme-stats.vercel.app/api?username=vittoriobusatta)
+![](https://visitor-badge.laobi.icu/badge?page_id=vittoriobusatta.vittoriobusatta)
 
 
 <!--
