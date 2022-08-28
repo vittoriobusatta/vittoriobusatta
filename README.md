@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=vittoriobusatta&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></div>
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoriobusatta&layout=compact&theme=dark&hide_border=true" /></div>
 
 #### Last Projects
